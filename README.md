@@ -2,18 +2,21 @@
 
 Standalone Next.js site for the founding-stage Toenail Fungus Survivor Foundation concept.
 
-## Positioning
+## Design direction
 
-TFSF is designed around a simple premise:
+The site is intentionally closer to a premium editorial health platform than a generic nonprofit template.
 
-> The problem can be embarrassing without the person being embarrassing.
+The experience combines:
+- custom visual hierarchy and editorial grids
+- carefully selected non-graphic stock photography from Pexels
+- survivor-centered messaging
+- evidence cards with direct source links
+- SEO-friendly question/answer content
+- structured data for the site and medical topic
+- distinct visitor paths for people seeking information, survivors, and professionals
+- explicit organizational-status and medical-information boundaries
 
-The public experience combines:
-- plain-language education
-- evidence links to primary or professional health sources
-- permission-based survivor-story planning
-- a future clinician directory concept
-- an explicit boundary between health information, professional care, and commerce
+The visual system deliberately avoids graphic toenail-fungus photography while still using relevant imagery: walking, clinical examination, conversation, community, and self-care.
 
 ## Important status note
 
@@ -43,12 +46,8 @@ npm run build
 
 ## Deploy
 
-This repository is structured for direct Vercel deployment as a standard Next.js application. No environment variables are required for the current static experience.
+This repository is structured for direct Vercel deployment as a standard Next.js application. No environment variables are required for the current experience.
 
-## Content sources
+## Image sourcing
 
-The public Evidence Desk currently links to:
-- CDC — nail/ringworm signs and symptoms
-- American Academy of Dermatology — nail fungus treatment and differential considerations
-
-The site is educational and is not a substitute for evaluation by a qualified healthcare professional.
+Current editorial photography is from Pexels and is credited on the page with links to the original photo pages. The current image set intentionally avoids graphic or humiliating toenail-fungus imagery.
