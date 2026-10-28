@@ -548,8 +548,8 @@ export default function Home() {
           </p>
 
           <div className="support-actions">
-            <a className="button button-primary" href="https://josephjilovec.com/contact">Contact the founder ↗</a>
-            <a className="button button-quiet" href="https://josephjilovec.com/portfolio/toenail-fungus-survivor-foundation">View project file ↗</a>
+            <a className="button button-primary" href="https://josephjilovec.com/contact">Project inquiry ↗</a>
+            
           </div>
         </div>
 
@@ -580,19 +580,14 @@ export default function Home() {
           </p>
         </div>
 
-        <div className="footer-links">
-          <a href="https://josephjilovec.com/portfolio" target="_blank" rel="noopener noreferrer">A Joseph Jilovec Venture ↗</a>
-          <a href="https://josephjilovec.com">Joseph Jilovec</a>
-          <a href="https://josephjilovec.com/portfolio">Portfolio</a>
-          <a href="https://josephjilovec.com/contact">Contact</a>
-        </div>
+        
       </footer>
 
       <div className="legal-bar">
         <span>© 2026 Toenail Fungus Survivor Foundation concept</span>
         <span>Educational information only · Not medical advice</span>
       </div>
-      <div className="jj-venture-nav" style={{borderTop:'1px solid rgba(255,255,255,.10)',padding:'1rem 1.25rem 1.15rem',textAlign:'center',fontSize:'.78rem',letterSpacing:'.045em'}}><a href="https://josephjilovec.com/portfolio" target="_blank" rel="noopener noreferrer" style={{color:'#E7C45A',textDecoration:'none',fontWeight:700}}>A Joseph Jilovec Venture</a><span aria-hidden="true" style={{color:'#E7C45A',margin:'0 .65rem',opacity:.7}}>•</span><a href="https://josephjilovec.com/portfolio" target="_blank" rel="noopener noreferrer" style={{color:'#E7C45A',textDecoration:'none',fontWeight:800}}>Explore the Venture Studio →</a></div>
+      
     </main>
   );
 }
